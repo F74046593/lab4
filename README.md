@@ -1,7 +1,9 @@
-# A.00000000004004b4 T _Z7averagePdRd
+# A.
+    00000000004004b4 T _Z7averagePdRd
     00000000004004e2 T _Z7averageif
     000000000040050a T main
-# B.1 8
+# B.
+    1 8
     4 8
     4 8
     8 8
